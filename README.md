@@ -1,3 +1,5 @@
+![alt text](https://github.com/kdavid00/employee-template-engine/blob/master/images/Employee-Template-Engine.png.png "employee-template-engine")
+
 # Table of Content
 
 - [Description](#Description)
