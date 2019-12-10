@@ -1,4 +1,4 @@
-![alt text](https://github.com/kdavid00/employee-template-engine/blob/master/images/Employee-Template-Engine.png.png "employee-template-engine")
+
 
 # Table of Content
 
@@ -30,6 +30,18 @@ The purpose of the software enginnering team generator command line application 
 ## User-input
 
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
+ 
+First add a Manger
+![addManger](images/addManager.png)
+
+Then add an Engineer
+![addEngineer](images/addEngineer.png)
+
+Adding an Intern
+![addIntern](images/addIntern.png)
+
+Finished product
+![endProduct](images/myTeam.png)
 
 ## Project created by
 
